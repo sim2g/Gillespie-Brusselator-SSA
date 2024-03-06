@@ -4,7 +4,7 @@
 An object-oriented MATLAB implementation of the Gillespie [1] and the 'Brusselator' [2] stochastic simulation algorithms.
 
 ## Dependencies
-
+This project requires only MATLAB to run the stochastic simulation algorithms, however the Signal Processing Toolbox and the Statistics and Machine Learning Toolbox are used for subsequent analysis of the simulations.
 
 ## Usage
 
