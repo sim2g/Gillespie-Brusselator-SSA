@@ -3,8 +3,8 @@
 ## Description
 An object-oriented MATLAB implementation of the Gillespie [1] and the 'Brusselator' [2] stochastic simulation algorithms.
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="./Project Resources/graph1.png" alt="Graph 1" style="width: 49%; height: auto; max-height: 400px; margin-right: 10px;" />
-    <img src="./Project Resources/graph2.png" alt="Graph 2" style="width: 49%; height: auto; max-height: 400px;" />
+    <img src="./Project Resources/graph1.png" alt="Graph 1" style="width: 49%; height: auto; max-height: 300px; margin-right: 10px;" />
+    <img src="./Project Resources/graph2.png" alt="Graph 2" style="width: 49%; height: auto; max-height: 300px;" />
 </div>
 
 
