@@ -1,1 +1,1 @@
-# stochastic-chemical-reaction-simulations
+# Gillespie-Brusselator-SSA
