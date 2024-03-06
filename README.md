@@ -8,7 +8,7 @@ This project requires only MATLAB to run the stochastic simulation algorithms, h
 
 ## Usage
 
-Run the 'main.m'
+Run the ```main.m``` file with the class file ```ChemicalReaction.m``` in the same directory, and the ChemicalReaction objects will be instantiated, calculations will be executed and results of the simulation and analysis will be displayed.
 
 ## References
 
